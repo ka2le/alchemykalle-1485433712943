@@ -6,3 +6,5 @@ applications:
   name: alchemykalle
   host: alchemykalle
   disk_quota: 1024M
+  services:
+  - AlchemyAPI-gf
